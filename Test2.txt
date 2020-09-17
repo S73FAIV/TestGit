@@ -1,2 +1,2 @@
 Hallo Stefan.
-Merge Conflict Test.
++Konflikt !!! Merge Conflict Test.
