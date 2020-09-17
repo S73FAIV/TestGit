@@ -1,4 +1,8 @@
 datei2
 ich habe diese Datei bearbeitet :)
-lulululul
+<<<<<<< HEAD
+lulululul aber anders
+=======
+>>>>>>> 8c58578a28a5fe1d869c1723705ff927925850cf
+anderes - lulululul
 zeugs
